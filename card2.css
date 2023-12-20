@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.colo{
+    background-color: gray;
+    color: white;
+}
+.col-sm-1{
+    margin-top: 50px;
+}
+.w{
+    width: 160px;
+    padding: 7px 3px;
+    margin: 20px;
+    margin-top: 40px;
+}
+.height{
+    line-height: 100px;
+}

@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+.colo{
+    background: linear-gradient(to right,#784BB4 50%, #DF53AF );
+}
+.container-fluid{
+    background-repeat: no-repeat;
+    padding: 100px;
+    background: url(/Kate\ Light\ Gray\ Abstract\ Texture\ Backdrop\ for\ Photography.jpeg);
+}
+.col-3{
+    width: 400px;
+}
+
+.lh{
+    height: 250px;
+}
+img{
+    height: 200px;
+    width: 10;
+}
+.wd{
+    width: 35%;
+}
+.mb{
+    position: absolute;
+    top: -25PX;
+}
+.bg-warning{
+    position: relative;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fa-facebook{
+    padding: 10px 15px; 
+    background-color:#1877f2;
+    border-radius: 50%;
+}
+.fa-twitter{
+    padding: 10px 15px;
+    background-color: #1DA1F2;
+    border-radius: 50%;
+}
+.fa-google-plus-g{
+    padding: 10px 13px;
+    background-color: #DB4437;
+    border-radius: 50%;
+}
+.cake{
+background-color: #DF53AF;
+color: white;
+}
